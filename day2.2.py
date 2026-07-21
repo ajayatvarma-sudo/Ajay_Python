@@ -1,0 +1,10 @@
+username = input("Enter username: ")
+num1 = int(input("Enter num1: "))
+num2 = int(input("Enter num2: "))
+
+print(username)
+print("sum of numbers: ", num1 + num2)
+print("Difference of numbers: ", num1 - num2)
+print("Product of numbers: ", num1 * num2)
+print("Division of numbers: ", num1 / num2)
+print("Remainder of numbers: ", num1 % num2)
