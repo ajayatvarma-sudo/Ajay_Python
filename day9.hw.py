@@ -1,12 +1,12 @@
-# student = ("Ajay", 29, "Hyderabad", "Python")
-# print(student[0])
-# print(student[2])
-# print(len(student))
+student = ("Ajay", 29, "Hyderabad", "Python")
+print(student[0])
+print(student[2])
+print(len(student))
 
 
-# numbers = (5, 10, 5, 20, 5, 30)
-# print(numbers.count(5))
-# print(numbers.index(20))
+numbers = (5, 10, 5, 20, 5, 30)
+print(numbers.count(5))
+print(numbers.index(20))
 
 
 languages = {"Python", "Java", "Python", "C", "Java"}

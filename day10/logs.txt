@@ -1,0 +1,4 @@
+INFO: Login successful
+ERROR: Database connection failed
+INFO: User logged out
+ERROR: Timeout occurred
